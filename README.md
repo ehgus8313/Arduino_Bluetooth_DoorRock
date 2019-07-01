@@ -10,6 +10,4 @@ Arduino
 
 제작과정 :  
   
-<img src="./image/wx_camera_1543743844953.jpg" width="40%"/> 
-  
-<img src="./image/wx_camera_1543990610815.jpg" width="40%"/>  
+<img src="./image/wx_camera_1543743844953.jpg" width="50%"/> <img src="./image/wx_camera_1543990610815.jpg" width="50%"/>  
