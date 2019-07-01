@@ -9,5 +9,7 @@ Arduino
 <img src="./image/1543642788253.jpg" width="40%"/>  
 
 제작과정 :  
-<img src="./image/wx_camera_1543743844953.jpg" width="40%"/>  
+  
+<img src="./image/wx_camera_1543743844953.jpg" width="40%"/> 
+  
 <img src="./image/wx_camera_1543990610815.jpg" width="40%"/>  
